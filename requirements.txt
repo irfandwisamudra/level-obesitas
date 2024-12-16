@@ -109,7 +109,7 @@ PySocks==1.7.1
 pyspellchecker==0.8.1
 python-dateutil==2.8.2
 pytz==2023.3.post1
-pywin32==306
+# pywin32==306
 PyYAML==6.0.1
 pyzmq==26.0.3
 rank-bm25==0.2.2
@@ -160,7 +160,7 @@ tensorboard==2.18.0
 tensorboard-data-server==0.7.2
 tensorflow==2.18.0
 tensorflow-io-gcs-filesystem==0.31.0
-tensorflow_intel==2.18.0
+tensorflow_intel==2.15.0
 termcolor==2.5.0
 threadpoolctl==3.2.0
 tokenizers==0.19.1
