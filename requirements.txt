@@ -183,4 +183,4 @@ Werkzeug==2.3.7
 wrapt==1.17.0
 wsproto==1.2.0
 zipp==3.19.2
-pip install --upgrade pip
+pip==22.0.3
